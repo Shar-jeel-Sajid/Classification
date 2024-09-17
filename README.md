@@ -37,3 +37,22 @@ The project involved the following steps:
 
 - **Logistic Regression**: Achieved an accuracy of approximately 96%.
 - **Naive Bayes**: Achieved an accuracy of approximately 93%.
+
+### MNIST Classifier Using SVM
+
+#### Technologies Used
+1. Python
+2. Scikit-learn
+3. Support Vector Machine (SVM)
+
+#### Techniques
+The project involved building a multi-class classifier for handwritten digits (0-9) using the MNIST dataset. The preprocessing steps included normalizing the images, and then pixel values were fed into an SVM classifier. Various kernel functions (linear, polynomial, RBF) were tested to improve classification performance.
+
+#### Learning Outcomes
+1. Acquired knowledge about the SVM algorithm and its hyperparameters.
+2. Investigated the influence of different kernel functions on model performance.
+3. Gained insight into the significance of dataset normalization for improving accuracy.
+
+#### Results
+1. Linear Kernel: 92% accuracy
+2. RBF Kernel: 98% accuracy
