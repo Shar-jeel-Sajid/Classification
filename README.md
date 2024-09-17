@@ -56,3 +56,4 @@ The project involved building a multi-class classifier for handwritten digits (0
 #### Results
 1. Linear Kernel: 92% accuracy
 2. RBF Kernel: 98% accuracy
+![image](https://github.com/user-attachments/assets/693e82a6-37bd-41e4-bb9b-735d8d10d138)
